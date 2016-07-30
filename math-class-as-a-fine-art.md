@@ -1,4 +1,5 @@
 # What would math class look like if it were a fine art?
+
 2014-02-21
 
 Wahoo Public High School in Wahoo, Nebraska is by all accounts a school with

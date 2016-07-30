@@ -1,4 +1,5 @@
 # Things mathematicians know but most people don't: dimension is malleable
+
 2013-11-10
 
 One of my science pet peeves is when people say, "time is the fourth

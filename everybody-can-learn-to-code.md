@@ -1,4 +1,5 @@
 # Nobody needs to learn to code, but everybody can learn to code
+
 2013-12-10
 
 Barack Obama recently released a

@@ -1,4 +1,5 @@
 # If you're going to treat education like a business, then follow the right business model!
+
 2013-12-30
 
 I heard a story recently on NPR where they discussed the effectiveness of job

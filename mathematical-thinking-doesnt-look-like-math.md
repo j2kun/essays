@@ -1,4 +1,5 @@
 # Mathematical thinking doesn't look anything like mathematics
+
 2013-12-03
 
 I like to think a lot about mathematics education, and I often read articles
