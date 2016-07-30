@@ -1,4 +1,4 @@
-# Writing Samples
+# Essays about Mathematics for a General Audience
 
 This repository contains short writing samples archived from the many
 blogging platforms I've used over the years. All the articles here
