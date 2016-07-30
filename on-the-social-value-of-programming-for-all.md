@@ -1,4 +1,5 @@
 # On the Social Value of "Programming for All"
+2014-01-13
 
 Bret Victor recently [published an infographic][1], which appears to be his own
 creation, pointing out some aspects of an essay written by [Seymour Papert][2]

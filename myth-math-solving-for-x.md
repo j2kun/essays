@@ -1,4 +1,5 @@
 # The Myth that Math is Solving for X
+2013-10-29
 
 I read an article in the Atlantic today, titled [The Myth of 'I'm Bad at
 Math'](http://www.theatlantic.com/education/archive/2013/10/the-myth-of-im-bad-at-math/280914/).

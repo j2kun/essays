@@ -1,4 +1,5 @@
 # How can you tell what's random?
+2013-12-30
 
 ![Random xkcd](http://imgs.xkcd.com/comics/im_so_random.png)
 

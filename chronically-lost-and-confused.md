@@ -1,4 +1,5 @@
 # Mathematicians are chronically lost and confused (and that's how it's supposed to be)
+2014-03-03
 
 A large part of my audience over at [Math ∩ Programming](http://jeremykun.com/)
 are industry software engineers who are discovering two things about

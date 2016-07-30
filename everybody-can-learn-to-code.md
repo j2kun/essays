@@ -1,4 +1,5 @@
 # Nobody needs to learn to code, but everybody can learn to code
+2013-12-10
 
 Barack Obama recently released a
 [video](https://www.youtube.com/watch?v=6XvmhE1J9PY) encouraging American
